@@ -4,7 +4,8 @@ This program is an add-on for Serco ESA Scientific Data Hub software.
 
 It allows the system to ingest Jpeg image files performing the necessary meta-data information extraction from a provided metadata file.
 Once the products have been ingested users can log into the platform to access, view the relative metadata and download them.
-The format of the metadata file should follow the one provided in the example folder.
+
+The system will use the provided jpg image to generate the preview. The format of the metadata file should follow the one provided in the example folder.
 
 You can find the original code for the Scientific Data Hub at the address: https://github.com/SentinelDataHub/DataHubSystem
 
